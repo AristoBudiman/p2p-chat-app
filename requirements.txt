@@ -1,0 +1,3 @@
+streamlit
+pynacl
+cryptography
